@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50425282-9120-4346-ab3f-a695dc4fee34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ats-bad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ats-good.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ats-warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-auth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-main.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume-scan-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume-scan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf.worker.min.mjs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="30P0o99TLobMEkcKgNNhBD3zDkd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/ai-resume-analyser/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\ai-resume-analyser\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ai-resume-analyser\public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50425282-9120-4346-ab3f-a695dc4fee34" name="Changes" comment="" />
+      <created>1753514074006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753514074006</updated>
+      <workItem from="1753514075027" duration="1981000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
