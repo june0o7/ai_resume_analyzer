@@ -61,6 +61,7 @@ const upload = () => {
     await kv.set(`resume:${uuid}`, JSON.stringify(data));
     setStatusText("analysis complete/Saving data...");
     console.log("data", data);
+    navigate(`/resume/${uuid}`);
 
   }
   const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
@@ -99,7 +100,7 @@ const upload = () => {
               <img
                 src="/images/resume-scan.gif"
                 alt="Processing"
-                className="w-full"
+                className="w-full h-150"
               />
             </>
           ) : (
